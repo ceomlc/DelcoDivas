@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Track images but not giant video files
+attached_assets/*.mov
+attached_assets/*.MOV
+attached_assets/*.HEIC
+attached_assets/*.heic
+
+# Keep generated images and small mp4s tracked
+PhilliesDanceRehearsal_1765459572931.mov
