@@ -1,0 +1,1 @@
+- [Hero video browser compatibility](hero-video-browser-compatibility.md) — Original 10-bit H.264 hero footage needs a browser-compatible derivative and poster frame for reliable preview rendering.
